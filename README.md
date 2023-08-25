@@ -49,6 +49,8 @@ It should work in __Firefox__ and every __Chromium__ based browsers.
 
 Some improvements can be made by adding some nice tricks from this [page](https://surf.suckless.org/stylesheets/darkmode_css/).
 
+---
+
 ### Notepad
 
 Used to create some sort of simple notepad inside the browser instance.
@@ -67,6 +69,8 @@ Create a new bookmark and define the following:
 #### Compatibility <!-- omit from toc -->
 
 It should work in every modern browsers.
+
+---
 
 ### Embed
 
@@ -89,6 +93,8 @@ Create a new bookmark and define the following:
 
 It should work in every modern browsers.
 
+---
+
 ### ExifExodus
 
 Remove GPS data from your photos before you upload them.
@@ -110,6 +116,8 @@ Create a new bookmark and define the following:
 
 It should work in every modern browsers.
 
+---
+
 ### UpToBox
 
 Extract existing [UpToBox](https://uptobox.com) streaming links from the [Darkino](https://darkino.io) website and convert them to download links in order to bypass their awful and bloat download page.
@@ -128,6 +136,8 @@ Create a new bookmark and define the following:
 #### Compatibility <!-- omit from toc -->
 
 It should work in every modern browsers.
+
+---
 
 ## Security
 
