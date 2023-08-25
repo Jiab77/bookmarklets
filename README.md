@@ -16,7 +16,9 @@ A small collection of [JavaScript](https://en.wikipedia.org/wiki/JavaScript) [Bo
 
 Basically, every modern browsers will evaluate JavaScript code written in the address bar. So what the bookmarklet does is just passing the JavaScript code as URL to the address bar and it gets evaluated.
 
-As long as the website where you are running bookmarklet don't have specific hardening instructions it will work.
+As long as the website where you are running the bookmarklet don't have specific hardening instructions it will work.
+
+Read the [security](#security) section for more details.
 
 ## Collection
 
@@ -128,6 +130,12 @@ Create a new bookmark and define the following:
 It should work in every modern browsers.
 
 ## Security
+
+You can also use any bookmarklet as a security test to see if the website you are visiting is allowing you to inject some JavaScript code in its context.
+
+Take the [dark mode](#dark-mode) bookmarklet for example, if it does not work on the website you are visiting, it will mean that the website has been hardened and does not allow code injection.
+
+Most of the time, you should find some errors being logged in the console when it does not work.
 
 ## Author
 
